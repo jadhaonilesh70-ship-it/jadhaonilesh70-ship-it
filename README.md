@@ -11,7 +11,7 @@ I am a recent MCA graduate (2024) from Dr. Babasaheb Ambedkar Marathwada Univers
 
 ## Technical Stack
 - Languages: Java, JavaScript, SQL, HTML/CSS
-- Backend: Spring Boot, REST APIs, JDBC, Hibernate
+- Backend: Spring Boot, REST APIs, JDBC, Hibernate, Spring Security
 - Frontend: React.js, Bootstrap
 - Databases: MySQL, PostgreSQL
 - Tools: Git, GitHub, Maven, Postman, IntelliJ IDEA
@@ -20,6 +20,6 @@ I am a recent MCA graduate (2024) from Dr. Babasaheb Ambedkar Marathwada Univers
 ![Nilesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jadhaonilesh70-ship-it&show_icons=false&theme=radical)
 
 ## Featured Projects
-1. [TaskFlow](https://github.com/jadhaonilesh70-ship-it/TaskFlow): A full-stack kanban-style productivity tracker built with Spring Boot and Vanilla JS.
-2. [BookHaven](https://github.com/jadhaonilesh70-ship-it/BookHaven): A RESTful backend catalog system for an online bookstore using Spring Boot and PostgreSQL.
-3. [CampusConnect](https://github.com/jadhaonilesh70-ship-it/CampusConnect): A modular Core Java console application for managing alumni records using OOP and Collections.
+1. [NexusBase](https://github.com/jadhaonilesh70-ship-it/NexusBase): A B2B multi-tenant knowledge base API featuring JWT auth and logical data isolation.
+2. [Sentinel](https://github.com/jadhaonilesh70-ship-it/Sentinel): An uptime and health monitoring service using Spring Scheduling and WebClient.
+3. [MockVault](https://github.com/jadhaonilesh70-ship-it/MockVault): A dynamic API mocking platform leveraging PostgreSQL JSONB for rapid frontend prototyping.
